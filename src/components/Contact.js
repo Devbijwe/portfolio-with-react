@@ -15,9 +15,9 @@ const defaultProps = {};
 const Contact = (props) => {
     return (
 <>
-<footer aria-label="Site Footer" className="bg-gray-100 dark:bg-gray-900">
+<footer aria-label="Site Footer" className={"  " +(props.theme==="dark"?  "bg-gradient-to-r  from-[#42275a] to-[#734b6d] ": " bg-gradient-to-r  from-[#be93c5] to-[#7bc6cc] ")}>
             <div className="mx-auto max-w-5xl px-4 py-16 sm:px-6 lg:px-8">
-                <div className="flex justify-center text-teal-600 dark:text-teal-300">
+                <div className="flex justify-center ">
                     <h2 style={{fontWeight:"bold",fontSize:"x-large"}}>Contact<span className='highlight' style={{color: "#5092c7"}}> Me</span></h2>
                 </div>
 
@@ -50,7 +50,7 @@ const Contact = (props) => {
                 
                 <ul className="mt-12 flex justify-center gap-6 md:gap-8">
                     <li>
-                        <a href="https://www.facebook.com/" rel="noreferrer" target="_blank" className="text-gray-700 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75">
+                        <a href="https://www.facebook.com/" rel="noreferrer" target="_blank" className="text-gray-800 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75">
                             <span className="sr-only">Facebook</span>
                             <svg className="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                       <path
@@ -63,7 +63,7 @@ const Contact = (props) => {
                     </li>
 
                     <li>
-                        <a href="https://www.instagram.com/shivabijwe/" rel="noreferrer" target="_blank" className="text-gray-700 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75">
+                        <a href="https://www.instagram.com/shivabijwe/" rel="noreferrer" target="_blank" className="text-gray-800 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75">
                             <span className="sr-only">Instagram</span>
                             <svg className="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                       <path
@@ -76,7 +76,7 @@ const Contact = (props) => {
                     </li>
 
                     <li>
-                        <a href="https://twitter.com/DevendraBijwe" rel="noreferrer" target="_blank" className="text-gray-700 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75">
+                        <a href="https://twitter.com/DevendraBijwe" rel="noreferrer" target="_blank" className="text-gray-800 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75">
                             <span className="sr-only">Twitter</span>
                             <svg className="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                       <path
@@ -87,7 +87,7 @@ const Contact = (props) => {
                     </li>
 
                     <li>
-                        <a href="https://github.com/Devbijwe/" rel="noreferrer" target="_blank" className="text-gray-700 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75">
+                        <a href="https://github.com/Devbijwe/" rel="noreferrer" target="_blank" className="text-gray-800 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75">
                             <span className="sr-only">GitHub</span>
                             <svg className="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                       <path
@@ -100,7 +100,7 @@ const Contact = (props) => {
                     </li>
 
                     <li>
-                        <a href="https://dribbble.com/shivabijwe/" rel="noreferrer" target="_blank" className="text-gray-700 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75">
+                        <a href="https://dribbble.com/shivabijwe/" rel="noreferrer" target="_blank" className="text-gray-800 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75">
                             <span className="sr-only">Dribbble</span>
                             <svg className="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                       <path
