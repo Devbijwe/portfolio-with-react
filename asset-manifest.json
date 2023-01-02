@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.8cf0a56b.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/IZ-News.png": "/static/media/IZ-News.cc720120b602ccfde438.png",
-    "static/media/Allora.png": "/static/media/Allora.aa63f16518ac60585dc4.png",
-    "static/media/Memerkida.png": "/static/media/Memerkida.ef5d91da6bdfacc6bf0b.png",
-    "static/media/Text-Utils.png": "/static/media/Text-Utils.4cd225fef3c5ccfbc3ef.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "static/media/phone.svg": "/static/media/phone.22904118b466d50710a6927da97da9cf.svg",
-    "static/media/at-sign.svg": "/static/media/at-sign.453d6aa23f31b71d7e47fe667153245c.svg",
-    "static/media/map-pin.svg": "/static/media/map-pin.8c41fcd32a64210260619a622335959e.svg",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.8cf0a56b.js.map": "/static/js/main.8cf0a56b.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/portfolio/static/js/main.6fa054c0.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/IZ-News.png": "/portfolio/static/media/IZ-News.cc720120b602ccfde438.png",
+    "static/media/Allora.png": "/portfolio/static/media/Allora.aa63f16518ac60585dc4.png",
+    "static/media/Memerkida.png": "/portfolio/static/media/Memerkida.ef5d91da6bdfacc6bf0b.png",
+    "static/media/Text-Utils.png": "/portfolio/static/media/Text-Utils.4cd225fef3c5ccfbc3ef.png",
+    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/phone.svg": "/portfolio/static/media/phone.22904118b466d50710a6927da97da9cf.svg",
+    "static/media/at-sign.svg": "/portfolio/static/media/at-sign.453d6aa23f31b71d7e47fe667153245c.svg",
+    "static/media/map-pin.svg": "/portfolio/static/media/map-pin.8c41fcd32a64210260619a622335959e.svg",
+    "main.073c9b0a.css.map": "/portfolio/static/css/main.073c9b0a.css.map",
+    "main.6fa054c0.js.map": "/portfolio/static/js/main.6fa054c0.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8cf0a56b.js"
+    "static/js/main.6fa054c0.js"
   ]
 }
