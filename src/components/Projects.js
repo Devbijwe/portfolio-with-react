@@ -108,7 +108,7 @@ const Projects = (props) => {
           </card>
         </div>
         <div className="col-span-12 p-5 ">
-      <h1 className="text-xl  text-center  font-bold " >Working in Progess on 3 More Projects</h1>
+      <h1 className="text-xl  text-center  font-bold " >Work in Progess on 3 More Projects</h1>
       </div>
 
       </div>
